@@ -1,5 +1,3 @@
-# API Basics
-
 ## What is API?
 API allows communication between systems using requests and responses.
 
